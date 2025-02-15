@@ -1,6 +1,3 @@
-export STAKE_TOKEN="your_session_token"  # From browser cookies
-export PROXY_URL="socks5://user:pass@gate.zenrows.com:8001"
-export API_SECRET="your_hmac_secret"
 import os
 import sys
 import time
